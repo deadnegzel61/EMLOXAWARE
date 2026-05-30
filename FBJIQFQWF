@@ -19,7 +19,7 @@ return (function(IllII0OOl0, ...)
                 l0IIO0IO = (821345 - 817416)
             elseif l0IIO0IO == (744398 - 740469) then
                 for lIl0=1, 0 do end
-                l0IIO0IO = (695567 - 686048) -- Dead end -- Fake state 1
+                l0IIO0IO = (695567 - 686048) 
 
         elseif l0IIO0IO == (903521 - 898623) then
             -- Core Decryption Loop
@@ -35,7 +35,7 @@ return (function(IllII0OOl0, ...)
                 l0IIO0IO = (870669 - 855831)
             elseif l0IIO0IO == (854975 - 840137) then
                 for IIlO=1, 0 do end
-                l0IIO0IO = (465170 - 457979) -- Dead end -- Fake state 2
+                l0IIO0IO = (465170 - 457979) 
 
         elseif l0IIO0IO == (169587 - 156111) then
             -- Execution Block
